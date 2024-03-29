@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: My Test
+description: This is just a test
+show_downloads: false
